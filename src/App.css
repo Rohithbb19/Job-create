@@ -1,0 +1,19 @@
+body{
+    background-color: #e6e6e6;
+}
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
+.card{
+    width: 830px;
+    height: 320px;
+    padding: 16px 24px;
+}
+
+.popUpCard{
+    width: 577px;
+    min-height: 564px;
+    position: absolute;
+    
+}
